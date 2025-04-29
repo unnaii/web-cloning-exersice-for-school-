@@ -1,0 +1,64 @@
+Uri: https://cdn.jsdelivr.net/npm/mathjax@2.7.9/MathJax.js?delayStartupUntil=configured
+File Name: C:\Downloaded Web Sites\elearning6.hezkuntza.net\npm\mathjax@2.7.9\MathJax.js
+Content Type: application/javascript
+
+Uri: https://elearning6.hezkuntza.net/012982/course/format/onetopic/styles.php
+File Name: C:\Downloaded Web Sites\elearning6.hezkuntza.net\012982\course\format\onetopic\styles.php
+Content Type: text/css
+
+Uri: https://elearning6.hezkuntza.net/012982/lib/javascript.php/1738317656/lib/javascript-static.js
+File Name: C:\Downloaded Web Sites\elearning6.hezkuntza.net\012982\lib\javascript.php\1738317656\lib\javascript.php
+Content Type: application/javascript
+
+Uri: https://elearning6.hezkuntza.net/012982/lib/javascript.php/1738317656/lib/polyfills/polyfill.js
+File Name: C:\Downloaded Web Sites\elearning6.hezkuntza.net\012982\lib\javascript.php\1738317656\lib\polyfills\javascript.php
+Content Type: application/javascript
+
+Uri: https://elearning6.hezkuntza.net/012982/lib/javascript.php/1738317656/lib/requirejs/require.min.js
+File Name: C:\Downloaded Web Sites\elearning6.hezkuntza.net\012982\lib\javascript.php\1738317656\lib\requirejs\javascript.php
+Content Type: application/javascript
+
+Uri: https://elearning6.hezkuntza.net/012982/login/forgot_password.php
+File Name: C:\Downloaded Web Sites\elearning6.hezkuntza.net\012982\login\forgot_password.php.html
+Content Type: text/html
+
+Uri: https://elearning6.hezkuntza.net/012982/login/index.php
+File Name: C:\Downloaded Web Sites\elearning6.hezkuntza.net\012982\login\index.php.html
+Content Type: text/html
+
+Uri: https://elearning6.hezkuntza.net/012982/login/index.php?lang=en
+File Name: C:\Downloaded Web Sites\elearning6.hezkuntza.net\012982\login\index.php-1.html
+Content Type: text/html
+
+Uri: https://elearning6.hezkuntza.net/012982/login/index.php?lang=es
+File Name: C:\Downloaded Web Sites\elearning6.hezkuntza.net\012982\login\index.php-3.html
+Content Type: text/html
+
+Uri: https://elearning6.hezkuntza.net/012982/login/index.php?lang=eu
+File Name: C:\Downloaded Web Sites\elearning6.hezkuntza.net\012982\login\index.php-2.html
+Content Type: text/html
+
+Uri: https://elearning6.hezkuntza.net/012982/pluginfile.php/1/core_admin/logo/0x200/1738317656/Logo ZM Inicio sesion Moodle.png
+File Name: C:\Downloaded Web Sites\elearning6.hezkuntza.net\012982\pluginfile.php\1\core_admin\logo\0x200\1738317656\Logo ZM Inicio sesion Moodle.png
+Content Type: image/png
+
+Uri: https://elearning6.hezkuntza.net/012982/theme/image.php/boostpersonal/theme/1738317656/favicon
+File Name: C:\Downloaded Web Sites\elearning6.hezkuntza.net\012982\theme\image.php\boostpersonal\theme\1738317656\favicon.ico
+Content Type: image/vnd.microsoft.icon
+
+Uri: https://elearning6.hezkuntza.net/012982/theme/styles.php/boostpersonal/1738317656_1738318030/all
+File Name: C:\Downloaded Web Sites\elearning6.hezkuntza.net\012982\theme\styles.php\boostpersonal\1738317656_1738318030\styles.php
+Content Type: text/css
+
+Uri: https://elearning6.hezkuntza.net/012982/theme/yui_combo.php?rollup/3.18.1/yui-moodlesimple-min.css
+File Name: C:\Downloaded Web Sites\elearning6.hezkuntza.net\012982\theme\combo
+Content Type: text/css
+
+Uri: https://elearning6.hezkuntza.net/012982/theme/yui_combo.php?rollup/3.18.1/yui-moodlesimple-min.js
+File Name: C:\Downloaded Web Sites\elearning6.hezkuntza.net\012982\theme\combo-1
+Content Type: application/javascript
+
+Uri: https://www.googletagmanager.com/gtag/js?id=G-G39EJEKQJR
+File Name: C:\Downloaded Web Sites\elearning6.hezkuntza.net\gtag\js
+Content Type: application/javascript
+
