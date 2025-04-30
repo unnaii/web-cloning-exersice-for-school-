@@ -340,3 +340,51 @@ html {
     --tw-backdrop-saturate: ;
     --tw-backdrop-sepia: ;
 }
+
+.que.calculated .answer {
+    padding: .3em;
+    display: inline;
+}
+
+.que.calculated .answer input[type="text"] {
+    width: 30%;
+}
+
+/* Campos de entrada de preguntas tipo calculated */
+#page-question-type-calculated input[name^="answer"],
+#page-question-type-calculated input[name^="unit"],
+#page-question-type-calculated input[name^="multiplier"],
+#page-question-type-calculated input[name^="calcmax"],
+#page-question-type-calculated input[name^="calcmin"],
+#page-question-type-calculated input[name^="number"],
+#page-question-type-calculated input[name^="tolerance"] {
+    direction: ltr;
+    text-align: left;
+}
+
+/* Estilos para los grupos de respuesta */
+body#page-question-type-calculated div[id^=fgroup_id_][id*=answeroptions_],
+body#page-question-type-calculatedmulti div[id^=fgroup_id_][id*=answeroptions_] {
+    background: #eee;
+    margin-top: 0;
+    margin-bottom: 0;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border: 1px solid #bbb;
+    border-bottom: 0;
+}
+
+/* Etiquetas dentro de los grupos */
+body#page-question-type-calculated div[id^=fgroup_id_][id*=answeroptions_] .fgrouplabel label,
+body#page-question-type-calculatedmulti div[id^=fgroup_id_][id*=answeroptions_] .fgrouplabel label {
+    font-weight: 700;
+}
+
+/* Etiquetas específicas para inputs de respuestas, tolerancia, etc. */
+body#page-question-type-calculated div[id^=fgroup_id_][id*=answeroptions_] label[for^='id_answer_'],
+body#page-question-type-calculated div[id^=fgroup_id_][id*=answertolerance_] label[for^='id_tolerance_'],
+body#page-question-type-calculated div[id^=fgroup_id_][id*=answerdisplay_] label[for^='id_correctanswerlength_'],
+body#page-question-type-calculatedmulti div[id^=fgroup_id_][id*=answeroptions_] label[for^='id_answer_'] {
+    /* posibles reglas adicionales aquí */
+}
+
