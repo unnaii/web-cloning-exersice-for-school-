@@ -1,3 +1,23 @@
+/* Box sizing: aplica a todos los elementos y pseudo-elementos */
+*, *::before, *::after {
+    box-sizing: border-box;
+}
+
+/* Estilo global para html */
+html {
+    font-family: sans-serif;
+    line-height: 1.15;
+    text-size-adjust: 100%;
+    -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+}
+
+/* Estilo para head oculto por defecto */
+head {
+    display: none;
+}
+
+
+
 element.style {
 }
 body {
